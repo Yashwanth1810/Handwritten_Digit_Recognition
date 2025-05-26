@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Digit_Recognition_Web_App
  link : https://maneprajakta.github.io/Digit_Recognition_Web_App/
@@ -17,3 +18,6 @@
  <br>⚈ Model gives 99.15% accuracy.
 <h2>For Deployment:</h2>Save model using tensorflowjs converters as json file and weight as .h5 file.Use Tensorflow.js to load model and predict in javascript file
 
+=======
+# Handwritten_Digit_Recognition
+>>>>>>> 6a66417b4fc8e72895c1daa1d632e5a05563dad8
